@@ -1,8 +1,3 @@
-# hello-world
-My first hello world repository
-I am testing GIT repository
-How are you?
-tejasree
-kishore
-sudhakar
-sreemathi
+echo "Hello world"
+echo "This is git repository of kishore"
+echo "We are testing GIT and Jenkins"
